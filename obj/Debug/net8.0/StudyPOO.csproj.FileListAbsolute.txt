@@ -1,0 +1,15 @@
+C:\Users\aliss\Desktop\StudyPOO\bin\Debug\net8.0\StudyPOO.exe
+C:\Users\aliss\Desktop\StudyPOO\bin\Debug\net8.0\StudyPOO.deps.json
+C:\Users\aliss\Desktop\StudyPOO\bin\Debug\net8.0\StudyPOO.runtimeconfig.json
+C:\Users\aliss\Desktop\StudyPOO\bin\Debug\net8.0\StudyPOO.dll
+C:\Users\aliss\Desktop\StudyPOO\bin\Debug\net8.0\StudyPOO.pdb
+C:\Users\aliss\Desktop\StudyPOO\obj\Debug\net8.0\StudyPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliss\Desktop\StudyPOO\obj\Debug\net8.0\StudyPOO.AssemblyInfoInputs.cache
+C:\Users\aliss\Desktop\StudyPOO\obj\Debug\net8.0\StudyPOO.AssemblyInfo.cs
+C:\Users\aliss\Desktop\StudyPOO\obj\Debug\net8.0\StudyPOO.csproj.CoreCompileInputs.cache
+C:\Users\aliss\Desktop\StudyPOO\obj\Debug\net8.0\StudyPOO.sourcelink.json
+C:\Users\aliss\Desktop\StudyPOO\obj\Debug\net8.0\StudyPOO.dll
+C:\Users\aliss\Desktop\StudyPOO\obj\Debug\net8.0\refint\StudyPOO.dll
+C:\Users\aliss\Desktop\StudyPOO\obj\Debug\net8.0\StudyPOO.pdb
+C:\Users\aliss\Desktop\StudyPOO\obj\Debug\net8.0\StudyPOO.genruntimeconfig.cache
+C:\Users\aliss\Desktop\StudyPOO\obj\Debug\net8.0\ref\StudyPOO.dll
