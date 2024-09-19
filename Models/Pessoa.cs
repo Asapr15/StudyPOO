@@ -11,7 +11,7 @@ namespace StudyPOO.Models
         public int Idade { get; set; }
         public string Email { get; set; }
 
-        public void Apresentar()
+        public virtual void Apresentar()
         {
             Console.WriteLine($"Olá menu é {Nome} e tenho {Idade} anos!");
         }
