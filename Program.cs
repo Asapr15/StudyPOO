@@ -1,8 +1,39 @@
 ﻿using StudyPOO.Models;
 
-Corrente c = new Corrente();
-c.Creditar(500);
-c.ExibirSaldo();
+Pessoa p1 = new Pessoa("Jorge");
+Aluno a1 = new Aluno ("Cleber");
+a1.Apresentar();
+p1.Apresentar();
+Professor prof = new Professor();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Corrente c = new Corrente();
+// c.Creditar(500);
+// c.ExibirSaldo();
 
 
 
