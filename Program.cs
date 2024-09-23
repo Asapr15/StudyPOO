@@ -1,17 +1,46 @@
 ﻿using StudyPOO.Models;
 
-Aluno a1 = new Aluno ();
-a1.Nome= "Leonardo";
-a1.Idade= 20;
-a1.Email= "email@gmail.com";
-a1.Nota = 8;
-a1.Apresentar();
+Corrente c = new Corrente();
+c.Creditar(500);
+c.ExibirSaldo();
 
-Professor p1 = new Professor();
-p1.Nome = "José";
-p1.Idade = 34;
-p1.Salario = 1000.00M;
-p1.Apresentar();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Aluno a1 = new Aluno ();
+// a1.Nome= "Leonardo";
+// a1.Idade= 20;
+// a1.Email= "email@gmail.com";
+// a1.Nota = 8;
+// a1.Apresentar();
+
+// Professor p1 = new Professor();
+// p1.Nome = "José";
+// p1.Idade = 34;
+// p1.Salario = 1000.00M;
+// p1.Apresentar();
 
 
 
