@@ -5,16 +5,9 @@ using System.Threading.Tasks;
 
 namespace StudyPOO.Models
 {
-    public class Professor : Pessoa
+    public sealed class Professor : Pessoa // SEALED é uma instancia final de uma herança, então não pode ser herdada
+                                            // por outra classe 
     {
-        public Professor( )
-        {
-            
-        }
-        public Professor (string nome) : base (nome)
-        {
-            
-        }
         public decimal Salario { get; set; }
 
         public override void Apresentar()
@@ -23,3 +16,47 @@ namespace StudyPOO.Models
         }
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// {
+//     // public class Professor : Pessoa
+//     // {
+//     //     public Professor( )
+//     //     {
+            
+//     //     }
+//     //     public Professor (string nome) : base (nome)
+//     //     {
+            
+//     //     }
+//     //     public decimal Salario { get; set; }
+
+//     //     public override void Apresentar()
+//     //     {
+//     //         Console.WriteLine($"Olá meu nome é {Nome}, tenho {Idade} anos, sou professor e ganho {Salario}");
+//     //     }
+//     // }
+// }
