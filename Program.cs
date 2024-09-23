@@ -1,10 +1,37 @@
 ﻿using StudyPOO.Models;
 
-Pessoa p1 = new Pessoa("Jorge");
-Aluno a1 = new Aluno ("Cleber");
-a1.Apresentar();
-p1.Apresentar();
-Professor prof = new Professor();
+Computador c = new Computador();
+Console.WriteLine(c.ToString());
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Pessoa p1 = new Pessoa("Jorge");
+// Aluno a1 = new Aluno ("Cleber");
+// a1.Apresentar();
+// p1.Apresentar();
+// Professor prof = new Professor();
 
 
 
